@@ -1,0 +1,32 @@
+You have a shiny red nose :o)
+
+And your nose is so lovely that everybody want to go for a ride with you!
+
+[i]NOTE: It is highly recommended to use this mod along with the [url=http://steamcommunity.com/sharedfiles/filedetails/?id=252720137]Cloning Goat[/url] mod as the creatures riding you will dissapear when you want them to stop riding.[/i]
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Rudolph Goat: You can make people ride on your back.
+
+[b]COMMANDS[/b]
+- [b]No rider + [1]:[/b] Hold 2s to make the closest creature ride you.
+- [b]Rider + [1]:[/b] Hold 2s to make your rider magically dissapear.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b]No rider + [RB]:[/b] Hold 2s to make the closest creature ride you.
+- [b]Rider + [RB]:[/b] Hold 2s to make your rider magically dissapear.
+
+[b]CHARACTERISTICS[/b]
+- Humans, animals and other creatures can ride you.
+- The red nose, the horns and the riding ability are optimized for a goat, the result may be ugly if used with other animals.
+
+[b]KNOWN BUGS[/b]
+- Some creatures have a weird vertical position on your back (they kinda float in the air).
+- Non human creatures can sometimes have a wrong horizontal position on your back, jump to fix it.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This is the first mod I make after a suggestion on my new requests thread ^^ The shiny red nose was originally proposed by unclekrusty and the force ride power was something that was requested some time ago when the City Bay map came out :)
+So after gathering some ideas on the request thread, I ended with a well placed red apple and some warning red light I found in the game files for the nose, and I also added reinder-looking horns (using the tornado goat mask).
+About the goat riding ability, there was not much to do: a function already exist for every NPC to make it ride your goat ^^ Anyway I had to tweak the position on your back for non human NPCs as they wer placed incorrectly. Also the way riding is done in the original code completely break NPCs so it's impossible to get them back alive an healthy after a ride (the only solution I see to do that is to clone them, but I already made a whole mod for that so I don't want to copy paste it in this one :p). Finally I added some general bug fixes to the riding mechanism to avoid as much as possible that you lose your rider unintentionally.
+[/quote]
